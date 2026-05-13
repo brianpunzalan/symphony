@@ -1,0 +1,8 @@
+node_modules/
+dist/
+client/node_modules/
+client/dist/
+*.log
+.env
+.env.local
+symphony_workspaces/
